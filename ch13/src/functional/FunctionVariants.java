@@ -46,7 +46,7 @@ class DBaz{
  */
 public class FunctionVariants {
 
-    static Function<Bar,Foo> f1 = f -> new Bar(f);
+//    static Function<Bar,Foo> f1 = f -> new Bar(f);
 
     public static void main(String[] args) {
 
